@@ -1,0 +1,30 @@
+Toil Portal
+
+http://10.234.211.97:9096/toils/page/0 
+
+
+
+MY IP 172.30.160.120
+
+http://172.30.160.120:8080
+
+
+$ sudo tar xzvf wine-1.9.19.tar.bz2
+$ cd wine-1.9.19
+$ ./configure
+$ make
+$ sudo make install
+$ sudo reboot
+
+
++++++++++++++++++++++
+github
+
+user: kapil=automation
+password:Ishaan_kapil1
+
++++++++++++++++++++++
+Gmail:
+
+kapiltel@gmail.com
+Myson@123
